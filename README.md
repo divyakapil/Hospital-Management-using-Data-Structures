@@ -1,0 +1,2 @@
+# Hospital-Management-using-Data-Structures
+Hospital Management Project using DS - Since we are entering details of the patients electronically in the “Hospital Management System”, data will be secured. Using this application we can retrieve patient’s history with a single click. Thus proceeding information will be faster. It guarantees accurate maintenance of patient details. It easily reduces the book keeping task and thus reduces the human effort and increases the accuracy speed.
